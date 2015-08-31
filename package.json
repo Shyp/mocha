@@ -1,7 +1,7 @@
 {
   "name": "mocha",
-  "version": "2.3.0",
-  "description": "simple, flexible, fun test framework",
+  "version": "2.3.1",
+  "description": "simple, flexible, fun test framework. fork maintained by shyp",
   "keywords": [
     "mocha",
     "test",
